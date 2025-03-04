@@ -1,0 +1,21 @@
+.home {
+    text-align: center;
+    background: no-repeat center center/cover;
+    padding: 80px 20px;
+    color: rgb(0, 0, 0);
+  }
+  
+  .home h1 {
+    font-size: 36px;
+    color: black;
+  }
+  
+  .hero-btn {
+    background: #0072ce;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+  }
+  
